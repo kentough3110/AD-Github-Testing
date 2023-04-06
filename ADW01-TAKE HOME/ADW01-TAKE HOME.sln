@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADW01-TAKE HOME", "ADW01-TAKE HOME\ADW01-TAKE HOME.csproj", "{D4A89CC7-4B92-4438-949C-CDDB32B8F7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A89CC7-4B92-4438-949C-CDDB32B8F7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A89CC7-4B92-4438-949C-CDDB32B8F7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A89CC7-4B92-4438-949C-CDDB32B8F7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A89CC7-4B92-4438-949C-CDDB32B8F7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A667FE76-8FC5-4061-9D61-6E6C3CABB695}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\bin\Debug\ADW01-TAKE HOME.exe.config
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\bin\Debug\ADW01-TAKE HOME.exe
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\bin\Debug\ADW01-TAKE HOME.pdb
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\obj\Debug\ADW01-TAKE HOME.csproj.AssemblyReference.cache
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\obj\Debug\ADW01-TAKE HOME.csproj.SuggestedBindingRedirects.cache
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\obj\Debug\ADW01-TAKE HOME.csproj.CoreCompileInputs.cache
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\obj\Debug\ADW01-TAKE HOME.exe
+C:\Users\KENT LEE\source\repos\ADW01-TAKE HOME\ADW01-TAKE HOME\obj\Debug\ADW01-TAKE HOME.pdb
